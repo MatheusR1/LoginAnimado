@@ -11,23 +11,7 @@ animation-play-state: running;
 animation-timing-function: ease;
 animation-direction: reverse;
 animation-iteration-count: infinite;
-
-
-@keyframes animationname {
-  0% {
-
-  }
-
-  100%{
-
-  }
-}
-
-podemos ter múltiplas animações no mesmo elemento
-
-.animate {
-  animation: slide-top 2s, bounce 1s, fade 0.2s;
-}
+@keyframes animationname 
 
 
 ## References 
