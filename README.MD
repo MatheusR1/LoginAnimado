@@ -1,9 +1,4 @@
 
-## desafio
-[x]fazer o formulário aparecer suavemente quando a pagina abrir
-[x] Fazer os campos aparecem da esquerda pra direita, suavizando a entrada e fazendo-os entrar em momentos distintos
-
-
 ## Animation 
 
 8 propriedades:
@@ -16,6 +11,8 @@ animation-play-state: running;
 animation-timing-function: ease;
 animation-direction: reverse;
 animation-iteration-count: infinite;
+
+
 @keyframes animationname {
   0% {
 
@@ -25,6 +22,7 @@ animation-iteration-count: infinite;
 
   }
 }
+
 podemos ter múltiplas animações no mesmo elemento
 
 .animate {
@@ -33,6 +31,5 @@ podemos ter múltiplas animações no mesmo elemento
 
 
 ## References 
-
 
 https://github.com/Rocketseat/youtube-form-animate-css-js-puro
